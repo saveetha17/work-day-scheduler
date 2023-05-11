@@ -23,6 +23,9 @@ jQuery
 
 
 
-
-
 <img src=".\assets\Images\Screenshot.png " width="50%" height="50%">
+
+
+Github Repo: https://github.com/saveetha17/work-day-scheduler.git
+
+Deployed Site: https://saveetha17.github.io/work-day-scheduler/
